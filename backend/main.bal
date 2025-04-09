@@ -4,13 +4,14 @@ import ballerina/io;
 import ballerina/log;
 
 public type Country record {
-    string Country;
-    string Capital;
-    string Continent;
-    int Population;
-    float Area;
-    string Languages;
-    string Currency;
+    string name;
+    string capital;
+    string continent;
+    int population;
+    float area;
+    string languages;
+    string currency;
+    float gdp;
 };
 
 service / on new http:Listener(9090) {

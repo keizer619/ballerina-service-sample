@@ -1,29 +1,29 @@
-Country,Capital,Continent,Population,Area,Languages,Currency
-United States,"Washington, D.C.",North America,331002651,9833517,English,USD
-Canada,Ottawa,North America,37742154,9984670,"English, French",CAD
-Brazil,Brasília,South America,212559417,8515767,Portuguese,BRL
-United Kingdom,London,Europe,67886011,243610,English,GBP
-Germany,Berlin,Europe,83783942,357022,German,EUR
-France,Paris,Europe,65273511,551695,French,EUR
-India,New Delhi,Asia,1380004385,3287263,"Hindi, English",INR
-China,Beijing,Asia,1439323776,9596961,Mandarin,CNY
-Japan,Tokyo,Asia,126476461,377975,Japanese,JPY
-Australia,Canberra,Oceania,25499884,7692024,English,AUD
-South Africa,Pretoria,Africa,59308690,1219090,11 official languages,ZAR
-Russia,Moscow,Europe/Asia,145934462,17098242,Russian,RUB
-Mexico,Mexico City,North America,128932753,1964375,Spanish,MXN
-Italy,Rome,Europe,60461826,301340,Italian,EUR
-Argentina,Buenos Aires,South America,45195774,2780400,Spanish,ARS
-Spain,Madrid,Europe,46754778,505990,Spanish,EUR
-Indonesia,Jakarta,Asia,273523615,1904569,Indonesian,IDR
-Saudi Arabia,Riyadh,Asia,34813871,2149690,Arabic,SAR
-South Korea,Seoul,Asia,51269185,100210,Korean,KRW
-Turkey,Ankara,Europe/Asia,84339067,783562,Turkish,TRY
-Egypt,Cairo,Africa,102334404,1002450,Arabic,EGP
-Thailand,Bangkok,Asia,69799978,513120,Thai,THB
-Pakistan,Islamabad,Asia,220892340,881913,"Urdu, English",PKR
-Nigeria,Abuja,Africa,206139589,923768,English,NGN
-Vietnam,Hanoi,Asia,97338579,331212,Vietnamese,VND
-Philippines,Manila,Asia,109581078,300000,"Filipino, English",PHP
-Colombia,Bogotá,South America,50882891,1141748,Spanish,COP
-Sri Lanka,Sri Jayawardenepura Kotte,Asia,21803000,65610,"Sinhala, Tamil",LKR
+name,capital,continent,population,area,languages,currency,gdp
+United States,"Washington, D.C.",North America,331002651,9833517,English,USD,27360000000000
+Canada,Ottawa,North America,37742154,9984670,"English, French",CAD,2140000000000
+Brazil,Brasília,South America,212559417,8515767,Portuguese,BRL,1944400000000
+United Kingdom,London,Europe,67886011,243610,English,GBP,2560000000000
+Germany,Berlin,Europe,83783942,357022,German,EUR,4500000000000
+France,Paris,Europe,65273511,551695,French,EUR,2930000000000
+India,New Delhi,Asia,1380004385,3287263,"Hindi, English",INR,3200000000000
+China,Beijing,Asia,1439323776,9596961,Mandarin,CNY,17730000000000
+Japan,Tokyo,Asia,126476461,377975,Japanese,JPY,4200000000000
+Australia,Canberra,Oceania,25499884,7692024,English,AUD,1780000000000
+South Africa,Pretoria,Africa,59308690,1219090,11 official languages,ZAR,1275000000000
+Russia,Moscow,Europe/Asia,145934462,17098242,Russian,RUB,2196000000000
+Mexico,Mexico City,North America,128932753,1964375,Spanish,MXN,1790000000000
+Italy,Rome,Europe,60461826,301340,Italian,EUR,2000000000000
+Argentina,Buenos Aires,South America,45195774,2780400,Spanish,ARS,407000000000
+Spain,Madrid,Europe,46754778,505990,Spanish,EUR,1400000000000
+Indonesia,Jakarta,Asia,273523615,1904569,Indonesian,IDR,1119000000000
+Saudi Arabia,Riyadh,Asia,34813871,2149690,Arabic,SAR,793000000000
+South Korea,Seoul,Asia,51269185,100210,Korean,KRW,1647000000000
+Turkey,Ankara,Europe/Asia,84339067,783562,Turkish,TRY,720000000000
+Egypt,Cairo,Africa,102334404,1002450,Arabic,EGP,363000000000
+Thailand,Bangkok,Asia,69799978,513120,Thai,THB,543000000000
+Pakistan,Islamabad,Asia,220892340,881913,"Urdu, English",PKR,278000000000
+Nigeria,Abuja,Africa,206139589,923768,English,NGN,432000000000
+Vietnam,Hanoi,Asia,97338579,331212,Vietnamese,VND,340000000000
+Philippines,Manila,Asia,109581078,300000,"Filipino, English",PHP,402000000000
+Colombia,Bogotá,South America,50882891,1141748,Spanish,COP,324000000000
+Sri Lanka,Sri Jayawardenepura Kotte,Asia,21803000,65610,"Sinhala, Tamil",LKR,84100000000
