@@ -12,7 +12,7 @@ public type Country record {
 
 service / on httpListener {
     resource function get countries() returns json|error { 
-           // Creating an HTTP client to connect to the server.
+    // Creating an HTTP client to connect to the server.
     http:Client countriesClient = check new ("https://25406727-19f8-46ba-b332-4f3167a29de0-dev.e1-us-east-azure.choreoapis.dev/default/sample-backend/v1.0");
 
     // Sending a GET request to the "/countries" endpoint and retrieving an array of `Country` records.
