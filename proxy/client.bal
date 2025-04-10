@@ -9,6 +9,9 @@ public type Country record {
 };
 
 service / on new http:Listener(8080) {
+    // The `countries` resource function returns:
+    // - `json`: A JSON array containing the top 10 countries based on GDP per capita.
+    // - `http:InternalServerError`: An HTTP 500 error response if there is a failure in processing the request.
     resource function get countries() returns json|http:InternalServerError {
         do {
             // Creating an HTTP client to connect to the server.
