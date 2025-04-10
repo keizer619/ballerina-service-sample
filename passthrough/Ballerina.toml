@@ -1,6 +1,6 @@
 [package]
 org = "tharik"
-name = "backend"
+name = "passthrough"
 version = "0.1.0"
 distribution = "2201.12.2"
 
